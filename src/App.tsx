@@ -11,7 +11,7 @@ function App() {
           <Shield className="w-16 h-16 text-blue-600" />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-          Secure Password Generator
+          Secure Password Generator v2.0
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Generate strong, secure passwords instantly with our advanced password generator.
